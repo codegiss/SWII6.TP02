@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|c:\\users\\giselle\\programming\\comex\\comexbackend\\comexbackend\\controllers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|solutionrelative:comexbackend\\controllers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|c:\\users\\giselle\\programming\\comex\\comexbackend\\comexbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|solutionrelative:comexbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|c:\\users\\giselle\\programming\\comex\\comexbackend\\comexbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|solutionrelative:comexbackend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|c:\\users\\giselle\\programming\\comex\\comexbackend\\comexbackend\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|solutionrelative:comexbackend\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|c:\\users\\giselle\\programming\\comex\\comexbackend\\comexbackend\\models\\billoflading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|solutionrelative:comexbackend\\models\\billoflading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|c:\\users\\giselle\\programming\\comex\\comexbackend\\comexbackend\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|solutionrelative:comexbackend\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|c:\\users\\giselle\\programming\\comex\\comexbackend\\comexbackend\\controllers\\billofladingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD213EFD-FD28-4E18-A1EB-45683D19F89B}|ComexBackend\\ComexBackend.csproj|solutionrelative:comexbackend\\controllers\\billofladingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillOfLadingController.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\BillOfLadingController.cs",
+              "RelativeDocumentMoniker": "ComexBackend\\Controllers\\BillOfLadingController.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\BillOfLadingController.cs",
+              "RelativeToolTip": "ComexBackend\\Controllers\\BillOfLadingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:27:43.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "ComexBackend\\Controllers\\ContainerController.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\ContainerController.cs",
+              "RelativeToolTip": "ComexBackend\\Controllers\\ContainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:30:28.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillOfLading.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Models\\BillOfLading.cs",
+              "RelativeDocumentMoniker": "ComexBackend\\Models\\BillOfLading.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Models\\BillOfLading.cs",
+              "RelativeToolTip": "ComexBackend\\Models\\BillOfLading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:32:56.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Models\\Container.cs",
+              "RelativeDocumentMoniker": "ComexBackend\\Models\\Container.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Models\\Container.cs",
+              "RelativeToolTip": "ComexBackend\\Models\\Container.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:34:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ComexBackend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ComexBackend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:24:48.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Program.cs",
+              "RelativeDocumentMoniker": "ComexBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Program.cs",
+              "RelativeToolTip": "ComexBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:10:25.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\Startup.cs",
+              "RelativeDocumentMoniker": "ComexBackend\\Controllers\\Startup.cs",
+              "ToolTip": "C:\\Users\\Giselle\\Programming\\Comex\\ComexBackend\\ComexBackend\\Controllers\\Startup.cs",
+              "RelativeToolTip": "ComexBackend\\Controllers\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:10:31.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
